@@ -128,7 +128,7 @@ const Home = () => {
               <div className="w-full md:w-1/2">
                 <div className="bg-white p-1 rounded-xl shadow-lg">
                   <img
-                    src="assets/gallery-02.jpg"
+                    src="/gallery-02.jpg"
                     alt="Associação Conviver"
                     className="rounded-lg w-full h-auto"
                   />
