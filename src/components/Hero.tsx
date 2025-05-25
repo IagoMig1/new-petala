@@ -34,7 +34,7 @@ const Hero: React.FC = () => {
           <div className="relative w-full h-80 md:h-96">
             <div className="absolute inset-0 rounded-xl overflow-hidden shadow-lg">
               <img
-                src="assets/petala.jpg"
+                src="/petala.jpg"
                 alt="Pétala Lacerda"
                 className="w-full h-full object-cover rounded-xl"
               />

@@ -24,7 +24,7 @@ const About = () => {
           <div className="w-full md:w-1/3">
             <div className="bg-gradient-to-br from-purple-200 to-pink-100 p-2 rounded-lg shadow-lg">
               <img
-                src="assets/sobre.jpg"
+                src="/sobre.jpg"
                 alt="Pétala Lacerda"
                 className="rounded-lg w-full h-auto"
               />
